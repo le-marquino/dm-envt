@@ -1,0 +1,49 @@
+itemUuid,itemAttributes.presentationTemplatesApplicationsSupported,itemAttributes.hasDocumentation,itemAttributes.presentationTemplatesFileTypes,itemAttributes.dimensions.unit,itemAttributes.dimensions.width,itemAttributes.dimensions.height
+c430fa7b-7aec-47de-90f4-92cd29605765,['Keynote'],True,['KEY'],px,1920,1080
+0eeded9a-7e36-4d6e-a13d-b5fce785e18a,['PowerPoint'],True,['PPTX'],px,1920,1080
+758c1060-473e-4bc8-87dc-d9f9bac34add,['Keynote'],True,['KEY'],px,1920,1080
+85f53b6f-50aa-4d53-a15a-a7fc0d0f62cd,['PowerPoint'],True,"['PPTX', 'PPT']",px,1920,1080
+5d16df9b-ad97-46ff-aaf0-b60f4309286f,['PowerPoint'],True,"['PPTX', 'PPT']",px,1920,1080
+5f394de9-a8a6-49cf-ab49-87954ed9682e,"['Google Slides', 'PowerPoint']",True,['PPTX'],px,1920,1080
+81f223e4-4a9b-43f3-8ccd-cfc94d6824f4,['Keynote'],True,['KEY'],px,1920,1080
+d06516e4-39ef-49e0-bcf9-8b4d0d16f218,['PowerPoint'],True,['PPTX'],px,1920,1080
+318a7954-be0f-4d72-b6e8-c6ca98d748d6,['Keynote'],True,['KEY'],px,1920,1080
+51864613-87de-4282-9ccb-4646a54556d9,"['Google Slides', 'PowerPoint']",True,['PPTX'],px,1920,1080
+ccd442f9-dad6-4d1f-b339-161da00c0387,['PowerPoint'],True,['PPTX'],px,1920,1080
+79124b51-35d0-4b05-b95c-d0e03ef69125,"['Google Slides', 'PowerPoint']",True,['PPTX'],px,1920,1080
+7c544fd0-3698-4221-bfe8-ac2a00470928,['PowerPoint'],True,['PPTX'],px,1920,1080
+fe286c51-bf0c-495a-948b-c4a64916acff,['Keynote'],True,['KEY'],px,1920,1080
+73cdd451-0883-4dc5-8568-4acb6478ac11,['PowerPoint'],True,['PPTX'],px,1920,1080
+dd04079f-3208-4819-8d4b-9170486e2e25,['Keynote'],True,['KEY'],px,1920,1080
+4a96fe5a-7448-432b-9ac4-20db308bb3e0,"['Google Slides', 'PowerPoint']",True,['PPTX'],px,1920,1080
+e1315076-142e-4d28-8caa-e83c6f8500a2,['PowerPoint'],True,['PPTX'],px,1920,1080
+f60088f7-53cb-4f0e-8bf1-219a8d6da068,['Keynote'],True,['KEY'],px,1920,1020
+03eb2aed-324e-4dcb-b2ee-63ece6f3f6bf,"['Google Slides', 'PowerPoint']",True,['PPTX'],px,1920,1080
+eab4eaca-6523-4aee-a85f-753f69510b41,['PowerPoint'],True,['PPTX'],px,1920,1080
+3953765e-6bab-4ec6-a2e5-07344d2bb44a,['Google Slides'],True,['PPTX'],px,1920,1080
+fdc01175-1dd8-4d89-8b26-b01869d8e7f4,['Keynote'],True,['KEY'],px,1920,1080
+254eb602-b189-4c04-9616-85db6b535e8e,['PowerPoint'],True,['PPTX'],px,1920,1080
+1e4ae0e7-b763-418c-b09d-9aa902fdc729,"['Google Slides', 'PowerPoint']",True,['PPTX'],px,1920,1080
+395b5c57-9a22-44bd-86a6-73f46f36de47,['Keynote'],True,['KEY'],px,1920,1080
+d735b852-47c5-49d0-8e39-f679861742df,['PowerPoint'],True,['PPTX'],px,1920,1080
+29ab3ef9-ded6-4ad1-9aa2-ce5d997696f1,['Keynote'],True,['KEY'],px,1920,1080
+97e56e92-28f0-410a-903d-986c7cf7bf7c,"['Google Slides', 'PowerPoint']",True,['PPTX'],px,1920,1080
+dcd1d119-c51c-41f6-ac5f-2e16de2c2361,['Keynote'],True,,px,1920,1080
+d0333f1b-a8bc-481c-8cfc-3ede2e70d476,['PowerPoint'],True,['PPTX'],px,1920,1080
+c6959db1-861a-4306-953a-407a1cf01d2f,['PowerPoint'],True,['PPTX'],px,1920,1080
+be250708-0908-4153-9de9-ef0c50d2118e,"['Google Slides', 'PowerPoint']",True,['PPTX'],px,1920,1080
+a05aea71-c805-4aec-992f-df2c6401800b,['Keynote'],True,['KEY'],px,1920,1080
+d1886a6e-d35c-44fa-8817-60564d4e95b9,"['Google Slides', 'PowerPoint']",True,['PPTX'],px,1920,1080
+f0e53c83-1e82-4a1a-9c42-49ddb6f2dfaf,['PowerPoint'],True,['PPTX'],px,1920,1080
+fa23cfa3-bf90-452c-8565-5f9162b6e0f6,['Google Slides'],True,['PPTX'],px,1920,1080
+7a891134-6d75-4686-a621-938f64e6c870,['PowerPoint'],True,['PPTX'],px,1920,1080
+c3bd28bc-a108-4e7e-9217-a80bbd8acf80,"['Google Slides', 'PowerPoint']",True,['PPTX'],px,1920,1080
+474c033e-e729-4e7a-81a8-145baaae2b9f,['Keynote'],True,['KEY'],px,1920,1080
+7fb5678c-666f-4e19-ba88-29a4538769ba,['Keynote'],True,['KEY'],px,1920,1080
+672690fd-3eb2-4452-bfcc-1a9cf8765cf8,['Keynote'],True,['KEY'],px,1920,1080
+c7ffe1a0-51ce-4130-ae04-d374ee2c488e,['Keynote'],True,['KEY'],px,1920,1080
+f9e88ddc-0c6b-419f-aeb5-3b4f1c73b14f,['PowerPoint'],True,['PPTX'],px,1920,1080
+cef9874d-f984-4557-94b9-e875b14fc3b1,['Keynote'],True,['KEY'],px,1920,1080
+379b2d31-1805-4885-a8f2-f7ef3e36ab43,['Keynote'],True,['KEY'],px,1920,1080
+e8bdb808-af01-4520-b65c-6ceedbd2efb2,"['Google Slides', 'PowerPoint']",True,['PPTX'],px,1920,1080
+e4c78875-3563-4375-8b07-fd0bc7b31171,['PowerPoint'],True,['PPTX'],px,1920,1080
